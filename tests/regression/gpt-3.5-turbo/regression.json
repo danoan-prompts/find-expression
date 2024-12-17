@@ -1,0 +1,14 @@
+[
+  {
+    "input": {
+      "language": "english",
+      "message": "I can't believe that"
+    },
+    "output": [
+      "I'm in disbelief",
+      "I'm shocked",
+      "I can't wrap my head around it",
+      "I'm flabbergasted"
+    ]
+  }
+]

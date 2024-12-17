@@ -1,0 +1,15 @@
+[
+  {
+    "input": {
+      "language": "english",
+      "message": "I can't believe that"
+    },
+    "output": [
+      "seeing is believing",
+      "it's hard to swallow",
+      "you can't make this stuff up",
+      "I can hardly wrap my head around it",
+      "you've got to be kidding me"
+    ]
+  }
+]
